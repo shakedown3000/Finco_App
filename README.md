@@ -1,4 +1,4 @@
-# Finco - Your Ultimate Finance App
+# Finco - Your Ultimate Finance App .
 
 ![Finco Screenshot 1](/public/screenshots_readme/Home.jpeg)
 ![Finco Screenshot 2](/public/screenshots_readme/report.jpeg)
