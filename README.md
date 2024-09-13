@@ -1,5 +1,7 @@
 # Finco - Your Ultimate Finance App .
 
+Login to the site via johndoe@supercode.de PW: 123
+
 ![Finco Screenshot 1](/public/screenshots_readme/Home.jpeg)
 ![Finco Screenshot 2](/public/screenshots_readme/report.jpeg)
 
